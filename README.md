@@ -20,7 +20,7 @@ Models_Antler_Senescence.R contains the models that were used in the manuscript.
 
 ### RUM RED DEER PROJECT DATA REUSE STATEMENT:
 		
-The attached files contain data derived from the long term field project monitoring individual red deer on Rum and their environment. This is a request to please let us know if you use them. Several people have spent the best part of their careers collecting the data. If you plan to analyse the data, there are a number of reasons why it would be very helpful if you could contact the authors or Josephine Pemberton (J.Pemberton@ed.ac.uk) before doing so.
+The attached files contain data derived from the long term field project monitoring individual red deer on Rum and their environment. This is a request to please let us know if you use them. Several people have spent the best part of their careers collecting the data. If you plan to analyse the data, there are a number of reasons why it would be very helpful if you could contact the authors or Professor Josephine Pemberton (J.Pemberton@ed.ac.uk) before doing so.
 		
 [NB. If you are interested in analysing the detailed project data in any depth you may find it helpful to have our full relational database rather than the file(s) available here. If so, then we have a simple process for bringing you onto the project as a collaborator.]
 		
