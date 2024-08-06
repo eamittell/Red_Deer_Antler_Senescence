@@ -6,7 +6,6 @@
 library(MCMCglmm)
 
 # File path to data
-file_path_data <- "/Users/umer/Documents/Work/Evol_Climate_Change/Analyses/RedDeer/AntlerPaper_DataAndScripts/"
 file_path_data <- ""
 
 # Read in and format the pedigree
