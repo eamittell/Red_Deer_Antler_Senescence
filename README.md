@@ -16,6 +16,8 @@ J.M.P, A.M., S.M, L.E.B.K, S.E.J. and E.A.M. collected the data. E.A.M., L.E.B.K
 
 DataFormRandomIds.csv contains the phenotypic data, and PedigreeRandomIds.csv contains the pedigree for the red deer population. The IDs within both these files have been randomised. This means that they should link to each other, but will not link to any other data published from the Rum Red Deer Project.
 
+DataFormRandomIds.csv columns are: *Code* -- randomised ID; *Year* -- year; *Age* -- age of stag; *Stag_Year* -- variable of stag and year together; *Form* -- number of points on a single antler; *LastSeen* -- age an individual was last seen in the population; *AgeClass* -- where 1 is young (3-7 years old), 2 is prime (8-11 years old), and 3 is old (12+ years old); *animal* -- randomised ID that links to pedigree; *y_form* -- number of points on a single antler in the young age class; *p_form* -- number of points on a single antler in the prime age class; *e_form* -- number of points on a single antler in the old age class; *ABS* -- number of offspring sired by an individual in the spring following the rut in which the antlers were used; 
+
 Models_Antler_Senescence.R contains the models that were used in the manuscript. The packages used are shown within the script. These models were run in various versions of R. All run and are installable in R version 4.3.2 as of 5th April 2024 on macOS Monterey version 12.7.1.
 
 ### RUM RED DEER PROJECT DATA REUSE STATEMENT:
